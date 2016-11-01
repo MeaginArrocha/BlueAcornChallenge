@@ -1,0 +1,12 @@
+Notes:
+
+Things that would be fixed in later development:
+
++ Shorten code : I have a lot of resused code
++ Borders around table
++ Symmetrical table
++ Get DESC - descending to work
++ Change ifDiscount to "yes" or "no" equals instead of 1 or 0
++ add discounts for items and not just pets
++ add feedback message for when filter comes up empty - like when you enter bob for a name
++ ability to filter with description if word is included in description instead of it being equal to
